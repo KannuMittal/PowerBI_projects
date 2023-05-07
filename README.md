@@ -1,1 +1,1 @@
-# PowerBI_projects
+# Power BI is a powerful business intelligence tool that allows users to analyze and visualize data in meaningful ways. This repository is dedicated to a Power BI project, aimed at providing insights and solutions to real-world business problems.
